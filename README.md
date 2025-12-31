@@ -13,7 +13,8 @@ A simple and clean Android calculator app built using **Kotlin** and **XML**.
 ## 📱 Live Demo (APK)
 
 👉 Download & install the app:
-[Download APK](apk/app-debug.apk)
+[Download APK](https://github.com/prajwalkc05/calculator-app/releases/download/v1.0/app-debug.apk
+)
 
 ⚠️ Enable "Install from unknown sources" on your phone.
 
